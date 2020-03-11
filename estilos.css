@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Sen&display=swap');
 
 body{
-    background-color: aqua;
+    background-color: antiquewhite;
     font-weight: bolder;
+    font-size: large;
 }
-
 p{
   font-family: 'Roboto Condensed', sans-serif;
-  color: black;
   font-weight: bolder;
 }
 h1 {
@@ -26,7 +25,7 @@ h1 {
 
 #cab{
   background-image: url("img/images (1).jpg");
-  background-size: cover;
+  background-size: auto;
   width: auto;
   height: 200px;
   padding:60px;
@@ -36,11 +35,26 @@ h1 {
 
 
 #datos {
-    background-image: url("img/450_1000.jpg");
-    width: 200px;
-    height: 200px;
-    padding: 100px;
-    margin: 40px;
+    background-image: url("img/sand-wavy-surface-grains.jpg");
+    background-size: auto;
+    margin: 50px 150px 75px 200px;
     border: 3px solid black;
     background-color: aqua;
+    text-align: center;
 }
+#Traba {
+    margin: 50px 150px 75px 200px;
+    border: 3px solid black;
+    text-align: center;
+    background-image: url("img/7374.jpg");
+}
+#dai{
+    margin: 50px 150px 75px 200px;
+    border: 3px solid black ;
+    background-image: url("img/miel.jpg");
+    background-size: auto;
+    text-align: center;
+    color: white;
+}
+
+
